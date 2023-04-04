@@ -16,6 +16,8 @@ You simply run the script, enter the text you want to convert to emotes and pres
 
 ### Installation
 
+#### Python
+
 - Python is required to run the script _(This script was made on version 3.11.2)_
 
 Open CMD and run the following commands
@@ -33,6 +35,8 @@ If you are facing problems with curl, you can just head to [www.python.org](http
 With this you should have the installation file on your desktop _(if you used curl)_ or whatever directory you saved it on. 
 
 Its an easy installation just **make sure to check** the `ADD PATH` option.
+
+#### Repository
 
 - Clone or download the repository
 
